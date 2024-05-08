@@ -1,0 +1,247 @@
+(footprint "SW_KSR223GLFG"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Switch Tactile N.O. SPST Round Button Gull Wing 0.01A 32VDC 0.2VA 200000Cycles 2N SMD Automotive T/R")
+	(property "Reference" "REF**"
+		(at -4.2 -2.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "fb5bd2cd-ad76-48dc-a04a-ff97a543ad65")
+		(effects
+			(font
+				(size 1.1684 1.1684)
+				(thickness 0.1016)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Value" "SW_KSR223GLFG"
+		(at -4.2 3.8 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "ed25cf0f-f3c7-45f9-b8d1-c48659f00316")
+		(effects
+			(font
+				(size 1.1684 1.1684)
+				(thickness 0.1016)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "92a6a6c0-fabb-440e-b2f5-2105a72c4337")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cea348cb-0e1f-4a42-8b89-bc3ef1fb18c2")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d173fc33-b662-4e4d-a391-ad755b612202")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(fp_line
+		(start -3 -1.9)
+		(end 3 -1.9)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6748dc5b-cd45-4ccc-b18d-b5fe25e904ee")
+	)
+	(fp_line
+		(start -3 -1.03)
+		(end -3 -1.9)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f7dcef82-1237-4b41-a040-defdcbe4fef1")
+	)
+	(fp_line
+		(start -3 1.03)
+		(end -3 1.9)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "76b59009-972b-44a8-a173-3c39b0b95e55")
+	)
+	(fp_line
+		(start -3 1.9)
+		(end 3 1.9)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "99c52976-6cbf-4151-84df-ee43e7548187")
+	)
+	(fp_line
+		(start 3 -1.9)
+		(end 3 -1.03)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6ae035aa-acbb-4183-a4fe-f556750f8c30")
+	)
+	(fp_line
+		(start 3 1.9)
+		(end 3 1.03)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e82859fb-d90f-407d-8958-681c81be1178")
+	)
+	(fp_circle
+		(center -4.6 -0.1)
+		(end -4.5 -0.1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "ec41cd4b-066f-4133-a35a-6b8c377db6cb")
+	)
+	(fp_line
+		(start -4.25 -2.15)
+		(end 4.25 -2.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "abee9f9b-76ef-41ba-a3b0-df12c745c47b")
+	)
+	(fp_line
+		(start -4.25 2.15)
+		(end -4.25 -2.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "cdafc87d-2cfe-425f-8dfd-e110cf07a710")
+	)
+	(fp_line
+		(start 4.25 -2.15)
+		(end 4.25 2.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b218d0b2-3303-47ca-843b-855af92d1a91")
+	)
+	(fp_line
+		(start 4.25 2.15)
+		(end -4.25 2.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f68a8f2b-966b-4dba-911b-ed51a2fbd231")
+	)
+	(fp_line
+		(start -3 -1.9)
+		(end 3 -1.9)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "590d88ca-0d75-49c5-a47d-1888c26f638d")
+	)
+	(fp_line
+		(start -3 1.9)
+		(end -3 -1.9)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7a9ce6da-2143-47dc-a40b-a05ae2fc9773")
+	)
+	(fp_line
+		(start 3 -1.9)
+		(end 3 1.9)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "bf4d1264-4b36-4bdd-82bc-6093194ab305")
+	)
+	(fp_line
+		(start 3 1.9)
+		(end -3 1.9)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d80aeec1-875b-447c-87a7-c85d24ce0f6c")
+	)
+	(fp_circle
+		(center -4.6 -0.1)
+		(end -4.5 -0.1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "9f598274-cfb9-435f-aac3-6a3f46e1fadb")
+	)
+	(pad "1" smd rect
+		(at -3.5 0)
+		(size 1 1.4)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.0254)
+		(thermal_bridge_angle 0)
+		(uuid "8e1d3cc8-1848-45d3-b641-6e8374a32330")
+	)
+	(pad "2" smd rect
+		(at 3.5 0)
+		(size 1 1.4)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.0254)
+		(thermal_bridge_angle 0)
+		(uuid "e0526792-7ccf-4979-95ad-e03f53f26f31")
+	)
+)

@@ -1,1 +1,65 @@
-# pin definitions for lattice featherwing (coming soon)
+# pin definitions for lattice featherwing
+
+set_io LED_R 41
+set_io LED_G 40
+set_io LED_B 39
+set_io LED2 2
+set_io LED3 3
+
+set_io RGB[2] 41
+set_io RGB[1] 40
+set_io RGB[0] 39
+
+set_io reset 4
+
+set_io BUS8[0] 37
+set_io BUS8[1] 38
+set_io BUS8[2] 42
+set_io BUS8[3] 43
+set_io BUS8[4] 44
+set_io BUS8[5] 45
+set_io BUS8[6] 46
+set_io BUS8[7] 47
+
+set_io MUX3[0] 9
+set_io MUX3[1] 10
+set_io MUX3[2] 11
+
+#GPIO
+set_io P2 2
+set_io P2 3
+set_io P4 4
+set_io P6 6
+set_io P9 9
+set_io P10 10
+set_io P11 11
+set_io P12 12
+set_io P13 13
+set_io P18 18
+set_io P19 19
+set_io P20 20
+set_io P21 21
+set_io P23 23
+set_io P25 25
+set_io P26 26
+set_io P27 27
+set_io P28 28
+set_io P31 31
+set_io P32 32
+set_io P34 34
+set_io P35 35
+set_io P37 37
+set_io P38 38
+set_io P42 42
+set_io P43 43
+set_io P44 44
+set_io P45 45
+set_io P46 46
+set_io P47 47
+set_io P48 48
+
+#spi
+set_io SPI_SS 16
+set_io SPI_SCK 15
+set_io SPI_MOSI 17
+set_io SPI_MISO 14

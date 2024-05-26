@@ -24,6 +24,10 @@ As noted on the pinout card, each pin on the Lattice FeatherWing corresponds to 
 
 You can find some Lattice FeatherWing specific examples by clicking [here](/examples). These examples can be built with the included io.pcf and Makefile by using various make commands. (currently just RGB PWM example available).
 
+In addition to the examples in this repository, you can also find examples for the iCE5LP4K in this [ice5lp4k_examples repository](https://github.com/skerr92/ice5lp4k_examples).
+
+If you're interested in CPU design, you can checkout the [O2 Trainer CPU](https://github.com/skerr92/O2-Trainer).
+
 The KiCAD board files and manufacturing files can be found by clicking [here](/Board%20Files/). These include all the information you need to make your own Lattice FPGA board, or order the files yourself if you want the challenge of making your own.
 
 Lattice FeatherWing is Licensed under [MIT License](LICENSE). This license is permissive, and the contents of this repository come AS IS. Please see the License file for additonal details.

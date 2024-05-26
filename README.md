@@ -2,9 +2,12 @@
 <image src=/images/lattice%20featherwing%20front.jpg>
 Home of the Lattice FeatherWing
 
+
 Lattice FeatherWing is an iCE5LP4K FeatherWing designed to be a companion to any Adafruit compatible feather development board available. Lattice FeatherWing provides 35 IO to 0.1" headers which can be used with dupont 0.1" cables to hook into a companion breadboard.
 
-Quick Facts about Lattice FeatherWing:
+Interested? You can purchase the Lattice FeatherWing on [Tindie](https://www.tindie.com/products/34549/)
+
+# Quick Facts about Lattice FeatherWing:
 
 * 35 IO Exposed to 0.1" headers 
 * 9 IO (including SPI programming pins) directly available to interface with host Feather.
